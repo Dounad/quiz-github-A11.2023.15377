@@ -1,1 +1,3 @@
-# quiz-github-A11.2023.15377
+# Nama : Hajar Surya Prasumba
+# NIM : A11.2023.15377
+# Kelas : DEV-02
